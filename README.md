@@ -11,6 +11,7 @@ Vending Machine - Verilog
 
 當選擇飲料後輸出飲料名稱
 	//給予狀態  (S2)
+
 找回零錢
 	//結帳狀態  (S3)
 
